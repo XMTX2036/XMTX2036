@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![XMTX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XMTX2036&show_icons=true&theme=tokyonight)
+
 <!--
 **XMTX2036/XMTX2036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
