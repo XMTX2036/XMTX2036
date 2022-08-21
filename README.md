@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="CMake" width="40" height="50"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XMTX2036&hide=javascript,html,CSS&layout=compact)](https://github.com/XMTX2036)
